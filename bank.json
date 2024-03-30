@@ -1,4 +1,4 @@
 [
     { "id": 1, "name":"axis","title": "axis-bank", "logo":"axis", "color": "#380d28","cardno": "1111-1111-1111-1111" },
-    { "id": 2, "name":"icici","title": "icici-bank", "logo":"icici", "color": "#6f703e","cardno": "2222-2222-2222-2222" }
+    { "id": 3, "name":"icici","title": "icici-bank", "logo":"icici", "color": "#6f703e","cardno": "2222-2222-2222-2222" }
   ]
